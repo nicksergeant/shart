@@ -11,6 +11,7 @@ Installation
 Usage
 -----
 
+- `shart` => runs `make`
 - `shart test` => runs `make test`
 - `shart build` => runs `make build`
 - `shart install` => runs `make install`
@@ -24,5 +25,5 @@ Example
 - Running `make test`:
 hi
 
-Done sharting.
+💩
 ```

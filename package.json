@@ -1,0 +1,32 @@
+{
+  "name": "shart",
+  "version": "0.0.0",
+  "description": "The task runner for JavaScript developers who give a shit.",
+  "keywords": [
+    "shart",
+    "grunt",
+    "gulp"
+  ],
+  "author": "Nick Sergeant <nick@nicksergeant.com> (http://nicksergeant.com)",
+  "homepage": "https://github.com/nicksergeant/shart",
+  "main": "lib",
+  "engines": {
+    "node": ">= 0.10.24"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nicksergeant/shart.git"
+  },
+  "bugs": {
+    "email": "nick+shart@nicksergeant.com",
+    "url": "https://github.com/nicksergeant/shart/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "execSync": "^1.0.1-pre"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "shart": "lib/shart.js"
+  }
+}

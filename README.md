@@ -11,9 +11,9 @@ Installation
 Usage
 -----
 
-`shart test` => runs `make test`
-`shart build` => runs `make build`
-`shart install` => runs `make install`
+- `shart test` => runs `make test`
+- `shart build` => runs `make build`
+- `shart install` => runs `make install`
 
 Example
 -------

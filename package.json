@@ -7,6 +7,9 @@
     "grunt",
     "gulp"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Nick Sergeant <nick@nicksergeant.com> (http://nicksergeant.com)",
   "homepage": "https://github.com/nicksergeant/shart",
   "main": "lib",
